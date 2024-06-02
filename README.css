@@ -1,4 +1,5 @@
 # Real-Time-Violence-Detection-Using-CNN-LSTM
+This project implements a violence detection system using Convolutional Neural Networks (CNN) and Long Short-Term Memory networks (LSTM). The system can perform real-time detection and process video files to identify violent scenes.
 Realtime violence detection along with face recognition using CNN LSTM architecture. This model uses the AIRTLAB dataset for identifying false positives.
 Violence-Detection-Using-CNN-LSTM/
 ├── model/
